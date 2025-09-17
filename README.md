@@ -1,6 +1,9 @@
 # IEEE_LAT_AM_T_9776
-
-Code for Machine Learning Assisted mm-Wave MIMO Antenna Design with High Isolation for 5G Applications
+# Title Machine Learning Assisted mm-Wave MIMO Antenna Design with High Isolation for 5G Applications
+Author: Ramasamy R, Rajavel V and Rachit Jain
+Ramasamy R is with the Department of ECE at Ramco Institute of Technology Rajapalayam, Tamil Nadu, India. (e-mail: ramasamy@ritrjpm.ac.in).
+Rajavel V is with the Department of ECE at Mepco Schlenk Engineering College Sivakasi, Tamil Nadu, India. (e-mail: rajavelv@mepcoeng.ac.in).
+Rachit Jain is with the Department of IT at Prestige Institute of Management & Research, Gwalior, India. (e-mail: rachit.jain@prestigegwl.org and rachit2709@gmail.com ).
 
 Resources and extra documentation for the manuscript "Machine Learning Assisted mm-Wave MIMO Antenna Design with High Isolation for 5G Applications" published in IEEE Latin America Transactions.
 
