@@ -5,9 +5,19 @@ Ramasamy R is with the Department of ECE at Ramco Institute of Technology Rajapa
 Rajavel V is with the Department of ECE at Mepco Schlenk Engineering College Sivakasi, Tamil Nadu, India. (e-mail: rajavelv@mepcoeng.ac.in).
 Rachit Jain is with the Department of IT at Prestige Institute of Management & Research, Gwalior, India. (e-mail: rachit.jain@prestigegwl.org and rachit2709@gmail.com ).
 
-Resources and extra documentation for the manuscript "Machine Learning Assisted mm-Wave MIMO Antenna Design with High Isolation for 5G Applications" published in IEEE Latin America Transactions.
+This repository contains Python codes for implementing various Machine Learning algorithms (Decision Tree, Random Forest, XGBoost, KNN, and Gradient Boosted Regression) on the dataset alldataset.csv.
+The project demonstrates how ML can be applied to optimize and analyze mm-Wave MIMO Antenna Design with High Isolation for 5G Applications.
 
-Machine Learning Algorithms Codes:
+Dataset
+Filename: alldataset.csv
+
+The dataset must be placed in the working directory or uploaded to Google Drive for execution in Google Colab.
+
+Requirements
+Make sure you have the following Python libraries installed:
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+
+Machine Learning Models Implemented:
 
 a) Decision Tree
 
@@ -19,6 +29,12 @@ d) KNN
 
 e) GBR
 
+Model Evaluation Metrics
+
+For each model, evaluate using: MAE, MSE, R-square, Mean Absolute Percentage Error (MAPE), Fit Time (in seconds), and Prediction Time (in seconds) 
+
+Visualization
+You can use Matplotlib or Seaborn to visualize prediction vs. actual results:
 Requirements: Google Colab/ Python for the execution of codes
 
 Graphical Abstract for proper understanding
