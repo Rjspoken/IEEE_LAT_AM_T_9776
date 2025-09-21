@@ -20,9 +20,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 Machine Learning Models Implemented:
 
 a) Decision Tree
+
 b) Random Forest
+
 c) XGB
+
 d) KNN
+
 e) GBR
 
 Model Evaluation Metrics
